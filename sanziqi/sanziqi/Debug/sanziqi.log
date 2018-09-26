@@ -1,0 +1,5 @@
+﻿  game.c
+  text.c
+  正在生成代码...
+f:\chengxulianxi\work\sanziqi\sanziqi\game.c(429): warning C4715: “Isfull”: 不是所有的控件路径都返回值
+  sanziqi.vcxproj -> F:\chengxulianxi\work\sanziqi\Debug\sanziqi.exe
